@@ -1,0 +1,193 @@
+{
+  "total_frames": 1500,
+  "fps": 30,
+  "phrases": [
+    {
+      "id": 0,
+      "scene": 1,
+      "text": "Bạn có tin không?",
+      "file": "out/phrases/fast_000.mp3",
+      "start_time": 0.3,
+      "end_time": 1.696,
+      "start_frame": 9,
+      "end_frame": 51,
+      "duration": 1.396
+    },
+    {
+      "id": 1,
+      "scene": 1,
+      "text": "Một khúc xương nhỏ bằng bao diêm,",
+      "file": "out/phrases/fast_001.mp3",
+      "start_time": 1.946,
+      "end_time": 4.326,
+      "start_frame": 58,
+      "end_frame": 130,
+      "duration": 2.38
+    },
+    {
+      "id": 2,
+      "scene": 1,
+      "text": "có thể gánh nổi hai con voi!",
+      "file": "out/phrases/fast_002.mp3",
+      "start_time": 4.526,
+      "end_time": 6.839,
+      "start_frame": 136,
+      "end_frame": 205,
+      "duration": 2.313
+    },
+    {
+      "id": 3,
+      "scene": 2,
+      "text": "Ai cũng cười.",
+      "file": "out/phrases/fast_003.mp3",
+      "start_time": 7.439,
+      "end_time": 8.686,
+      "start_frame": 223,
+      "end_frame": 261,
+      "duration": 1.247
+    },
+    {
+      "id": 4,
+      "scene": 2,
+      "text": "Một con voi nặng mấy tấn,",
+      "file": "out/phrases/fast_004.mp3",
+      "start_time": 9.036,
+      "end_time": 11.134,
+      "start_frame": 271,
+      "end_frame": 334,
+      "duration": 2.098
+    },
+    {
+      "id": 5,
+      "scene": 2,
+      "text": "mà chỉ đặt lên một khúc xương bé tí?",
+      "file": "out/phrases/fast_005.mp3",
+      "start_time": 11.384,
+      "end_time": 14.046,
+      "start_frame": 342,
+      "end_frame": 421,
+      "duration": 2.662
+    },
+    {
+      "id": 6,
+      "scene": 3,
+      "text": "Nhưng khúc xương không hề gãy!",
+      "file": "out/phrases/fast_006.mp3",
+      "start_time": 14.846,
+      "end_time": 17.032,
+      "start_frame": 445,
+      "end_frame": 511,
+      "duration": 2.186
+    },
+    {
+      "id": 7,
+      "scene": 3,
+      "text": "Nó chịu được tới chín tấn,",
+      "file": "out/phrases/fast_007.mp3",
+      "start_time": 17.382,
+      "end_time": 19.524,
+      "start_frame": 521,
+      "end_frame": 586,
+      "duration": 2.142
+    },
+    {
+      "id": 8,
+      "scene": 3,
+      "text": "hơn cả thép nếu cùng trọng lượng.",
+      "file": "out/phrases/fast_008.mp3",
+      "start_time": 19.824,
+      "end_time": 22.223,
+      "start_frame": 595,
+      "end_frame": 667,
+      "duration": 2.4
+    },
+    {
+      "id": 9,
+      "scene": 4,
+      "text": "Bạn thấy đấy, bí mật nằm ở bên trong.",
+      "file": "out/phrases/fast_009.mp3",
+      "start_time": 23.6,
+      "end_time": 26.527,
+      "start_frame": 708,
+      "end_frame": 796,
+      "duration": 2.927
+    },
+    {
+      "id": 10,
+      "scene": 4,
+      "text": "Bên ngoài xương cứng như đá,",
+      "file": "out/phrases/fast_010.mp3",
+      "start_time": 26.927,
+      "end_time": 29.199,
+      "start_frame": 808,
+      "end_frame": 876,
+      "duration": 2.272
+    },
+    {
+      "id": 11,
+      "scene": 4,
+      "text": "nhưng bên trong lại xốp như tổ ong!",
+      "file": "out/phrases/fast_011.mp3",
+      "start_time": 29.499,
+      "end_time": 32.076,
+      "start_frame": 885,
+      "end_frame": 962,
+      "duration": 2.577
+    },
+    {
+      "id": 12,
+      "scene": 5,
+      "text": "Nhờ vậy, xương vừa chắc khỏe để gánh cả cơ thể,",
+      "file": "out/phrases/fast_012.mp3",
+      "start_time": 35.0,
+      "end_time": 38.929,
+      "start_frame": 1050,
+      "end_frame": 1168,
+      "duration": 3.929
+    },
+    {
+      "id": 13,
+      "scene": 5,
+      "text": "vừa đủ nhẹ để chúng ta chạy nhảy.",
+      "file": "out/phrases/fast_013.mp3",
+      "start_time": 39.229,
+      "end_time": 41.784,
+      "start_frame": 1177,
+      "end_frame": 1254,
+      "duration": 2.555
+    },
+    {
+      "id": 14,
+      "scene": 6,
+      "text": "Và còn điều tuyệt hơn:",
+      "file": "out/phrases/fast_014.mp3",
+      "start_time": 43.5,
+      "end_time": 45.419,
+      "start_frame": 1305,
+      "end_frame": 1363,
+      "duration": 1.919
+    },
+    {
+      "id": 15,
+      "scene": 6,
+      "text": "xương tự lành lại được, trong khi thép thì không.",
+      "file": "out/phrases/fast_015.mp3",
+      "start_time": 45.669,
+      "end_time": 49.008,
+      "start_frame": 1370,
+      "end_frame": 1470,
+      "duration": 3.339
+    },
+    {
+      "id": 16,
+      "scene": 6,
+      "text": "Bạn đang mang theo một thứ siêu phẩm đấy!",
+      "file": "out/phrases/fast_016.mp3",
+      "start_time": 49.358,
+      "end_time": 51.867,
+      "start_frame": 1481,
+      "end_frame": 1556,
+      "duration": 2.509
+    }
+  ]
+}
